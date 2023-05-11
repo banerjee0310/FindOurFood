@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FindOurFood/static/css/main.4005e70c.css",
+    "main.js": "/FindOurFood/static/js/main.56ccb119.js",
+    "static/js/787.9643ecdb.chunk.js": "/FindOurFood/static/js/787.9643ecdb.chunk.js",
+    "static/media/food_bg.jpg": "/FindOurFood/static/media/food_bg.cc1eb29c6c88d7d27e8c.jpg",
+    "index.html": "/FindOurFood/index.html",
+    "main.4005e70c.css.map": "/FindOurFood/static/css/main.4005e70c.css.map",
+    "main.56ccb119.js.map": "/FindOurFood/static/js/main.56ccb119.js.map",
+    "787.9643ecdb.chunk.js.map": "/FindOurFood/static/js/787.9643ecdb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4005e70c.css",
+    "static/js/main.56ccb119.js"
+  ]
+}
